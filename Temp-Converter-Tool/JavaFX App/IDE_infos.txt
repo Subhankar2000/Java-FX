@@ -1,1 +1,5 @@
 This project was developed using IntelliJ IDEA and hence use of import is highly recommended
+
+Subhankar Karmakar
+E.C.E. Dept. - Asansol Engineering College [ 2017 - 2021 ] 
+Project developed in Feb

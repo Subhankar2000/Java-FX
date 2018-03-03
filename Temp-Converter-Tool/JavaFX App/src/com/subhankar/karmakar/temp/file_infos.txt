@@ -1,3 +1,7 @@
 Controller.java - has all the methods to connect the UI [ made using FXML ] 
 main.java - links all the other files
 app_layout.fxml - has the UI information of the application
+
+Subhankar Karmakar
+E.C.E. Dept. - Asansol Engineering College [ 2017 - 2021 ] 
+Project developed in Feb

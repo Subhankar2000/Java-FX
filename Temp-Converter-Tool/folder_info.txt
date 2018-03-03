@@ -1,1 +1,2 @@
-
+This Folder Contains the source codes for the temperature converter tool , built using IntelliJ IDEA , so use the import option to import
+this kind of projects , this is a small proejct conatining the controller , main and the ui file for this project
